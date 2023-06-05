@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: О
 permalink: /about/
 ---
 
-Some information about you!
+Ў
 
-### More Information
+### Што естат Русанто?
 
-A place to include any other types of information that you'd like to include about yourself.
+Русанто естат нова межнарода јазыко, котору понимат четыросто милионој от людој через та свето. Они могат потреби Русантону длја мови с четыросто милионој da славој от Прага до Владивостоко. От Санкт-Петербурго через Варшаво к Варно. От та середина моро и от та Севера Моро до та Pacifika Oceano. Русанто иметат боле простану и боле логикану граматикону, и Русанто естат та идеала јазыко длја днесај людој. Учите Русанто тепер!
 
 ### Contact me
 
