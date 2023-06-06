@@ -11,6 +11,6 @@ permalink: /about/
 
 ### О ја
 
-Rusanto - Профессор лингвистики и кислых щей
+Rusanto estat nova "Basic Russian"
 
 [email@domain.com](mailto:email@domain.com)

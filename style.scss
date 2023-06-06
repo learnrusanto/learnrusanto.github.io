@@ -282,11 +282,8 @@ tbody tr:nth-child(even) {
   background-color: #eee;
 }
 
-table {
-	border-collapse: collapse;
-	border: 1px solid black;
-	text-align: center;
-	vertical-align: middle;
+table, th, td {
+  border: 1px solid;
 }
 
 footer {
