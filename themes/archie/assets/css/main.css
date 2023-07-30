@@ -316,18 +316,17 @@ color: whitesmoke ;
 }
 
 /* table */
-table {
-  border-spacing: 0;
-  border-collapse: collapse;
+.content table {
+    display: block;
+    overflow-x: auto;
 }
 
-table th{
-  padding: 6px 13px;
-  border: 1px solid #dfe2e5;
-  font-size: large;
+.content td, .content th {
+    border: #575C61 1px solid;
+    padding: .1rem .5rem;
 }
 
-table td{
-  padding: 6px 13px;
-  border: 1px solid #dfe2e5;
+.content th {
+    background-color: #575C61;
+    color: #FAFAFA;
 }
