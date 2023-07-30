@@ -1,0 +1,15 @@
+baseURL = 'http://example.org/'
+languageCode = 'ru-ru'
+title = 'NovoRosiana - Русский эсперантоид и ответ "Basic English". Имеет очень простую граматику и легк для изучения'
+theme = "archie"
+
+[menu]
+  [[menu.main]]
+    name = "Translitor"
+    url = "/merkato"
+    weight = 1
+[params]
+title="NovoRosiana"
+showWordCount = true
+showReadingTime = true
+enableDuckDuckGoSearchBox = false
