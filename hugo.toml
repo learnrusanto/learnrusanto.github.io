@@ -8,6 +8,12 @@ theme = "archie"
     name = "Translitor"
     url = "/merkato"
     weight = 1
+    
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
 [params]
 title="NovoRosiana"
 showWordCount = true
