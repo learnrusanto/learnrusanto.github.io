@@ -1,6 +1,5 @@
 +++
-layout: page
-title: Списко от суфиксов
+title = "Списко от суфиксов"
 series = ["Grammar"]
 +++
 

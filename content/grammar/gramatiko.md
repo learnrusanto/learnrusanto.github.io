@@ -1,6 +1,5 @@
 +++
-layout: page
-title: Граматико от Novorosiana
+title = "Граматико от Novorosiana"
 series = ["Grammar"]
 +++
 
