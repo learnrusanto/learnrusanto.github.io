@@ -1,7 +1,17 @@
----
-layout: page
-title: Алфабето
----
++++
+title = "Алфабето"
+description = "Русанто"
+tags = [
+    "novorosiana",
+    "grammar",
+    "writer",
+]
+categories = [
+    "themes",
+    "syntax",
+]
+series = ["Grammar"]
++++
 
 | кирилица | латиница | глаголица  | основа звуко | ASCII латиница |
 |:----------:|:----------:|:-----------:|:--------------:|:-----------:|

@@ -1,7 +1,8 @@
----
++++
 layout: page
 title: Граматико от Novorosiana
----
+series = ["Grammar"]
++++
 
 Сравнена таблицо от Новоросианав и Есперантав суфиксов. WIP
 
