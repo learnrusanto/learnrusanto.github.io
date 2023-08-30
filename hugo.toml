@@ -3,6 +3,10 @@ languageCode = 'ru-ru'
 title = 'NovoRosiana - Русский эсперантоид и ответ "Basic English". Имеет очень простую граматику и легк для изучения'
 theme = "archie"
 
+[params]
+	mode="auto"
+	useCDN=false
+
 [menu]
   [[menu.main]]
     name = "Translitor"
@@ -14,8 +18,3 @@ theme = "archie"
     url = "/about"
     weight = 2
 
-[params]
-title="NovoRosiana"
-showWordCount = true
-showReadingTime = true
-enableDuckDuckGoSearchBox = false

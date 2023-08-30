@@ -16,7 +16,7 @@ series = ["Grammar"]
 |  kien       |  куда        |  whither, to where  |
 |  kies       |  чеј        |  whose       |
 | kio        |   што       |  what       |
-| kiom        |  сколко        |  how much       |
+| kiom        |  скока        |  how much       |
 | kiu        |   ктор       | who, which one |
 
 
@@ -45,7 +45,7 @@ series = ["Grammar"]
 |    tien     |    туда      |         |
 |    ties     | ево,тово |   this/that one's      |
 |    tio     |    то,ето      |  this/that       |
-|    tiom     |   столко       |   that much      |
+|    tiom     |   стока       |   that much      |
 |    tiu     |    тот      |   that one      |
 
 Неуверенав словов
@@ -60,7 +60,7 @@ series = ["Grammar"]
 |  ien      |   кудато       |         |
 |   ies     |   чейто       |  someone's       |
 |  io      |    штото      |   something      |
-|  iom      |   столкото       |  some, a bit       |
+|  iom      |   стокато       |  some, a bit       |
 |  iu      |    ктото      |   someone      |
 
 
@@ -91,7 +91,7 @@ series = ["Grammar"]
 |  nenien      |   никуда       |         |
 |  nenies      |   ничей       |  no one's       |
 |  nenio      |    ништо      |   nothing      |
-|   neniom     |   нисколко       | none        |
+|   neniom     |   нискока       | none        |
 |  neniu      |    никто      |  no one; no x       |
 
 
@@ -112,7 +112,7 @@ en в\
 el из\
 inter меж\
 al к\
-nur толко (лиш)\
+nur тока, толко (лиш)\
 per через\
 ĉe у (при)\
 plej наиболе\
