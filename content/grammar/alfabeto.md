@@ -58,7 +58,7 @@ series = ["Grammar"]
 
 
 
-|  | Labial | Alveolar  | Post-alveolar | Velar | Glottal |
+|  | Labial | Alveolar-Dental  | Post-alveolar | Velar | Glottal |
 |:----:|:----:|:-----:|:-----:|:---:|:---:|
 |Nasal      | m    | n  \ nʲ |   ɲ?    |      |     |
 |Plosive    |p \ b | t \ d  |       | k \ g |     |

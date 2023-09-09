@@ -17,7 +17,7 @@ series = ["Grammar"]
 |  kies       |  чеј        |  whose       |
 | kio        |   што       |  what       |
 | kiom        |  скока        |  how much       |
-| kiu        |   ктор       | who, which one |
+| kiu        |   котора       | who, which one |
 
 
 Личнав зазванов
@@ -120,7 +120,7 @@ pri о, об\
 mem сам\
 sur на\
 se если\
-kun с, со\
+kun со\
 ke штон\
 jam уже\
 ĉi е?\
