@@ -137,27 +137,27 @@
 
   // Function to deside which convertion will be performed
   convertText = function(source, target, toBeConverted) {
-    if (source === 'Esperanto' && target === 'Cyrillic') {
+    if (source === 'Latin' && target === 'Cyrillic') {
       return fromEsperantoToCyrillic(toBeConverted);
-    } else if (source === 'Esperanto' && target === 'Georgian') {
+    } else if (source === 'Latin' && target === 'Gla') {
       return fromEsperantoToGeorgian(toBeConverted);
-    } else if (source === 'Esperanto' && target === 'X') {
+    } else if (source === 'Latin' && target === 'X') {
       return fromEsperantoToXSystem(toBeConverted);
-    } else if (source === 'Cyrillic' && target === 'Esperanto') {
+    } else if (source === 'Cyrillic' && target === 'Latin') {
       return fromCyrillicToEsperanto(toBeConverted);
-    } else if (source === 'Cyrillic' && target === 'Georgian') {
+    } else if (source === 'Cyrillic' && target === 'Gla') {
       return fromEsperantoToGeorgian(fromCyrillicToEsperanto(toBeConverted));
     } else if (source === 'Cyrillic' && target === 'X') {
       return fromEsperantoToXSystem(fromCyrillicToEsperanto(toBeConverted));
-    } else if (source === 'Georgian' && target === 'Georgian') {
+    } else if (source === 'Gla' && target === 'Latin') {
       return fromGeorgianToEsperanto(toBeConverted);
-    } else if (source === 'Georgian' && target === 'Cyrillic') {
+    } else if (source === 'Gla' && target === 'Cyrillic') {
       return fromEsperantoToCyrillic(fromGeorgianToEsperanto(toBeConverted));
-    } else if (source === 'Georgian' && target === 'X') {
+    } else if (source === 'Gla' && target === 'X') {
       return fromEsperantoToXSystem(fromGeorgianToEsperanto(toBeConverted));
-    } else if (source === 'X' && target === 'Esperanto') {
+    } else if (source === 'X' && target === 'Latin') {
       return fromXSystemToEsperanto(toBeConverted);
-    } else if (source === 'X' && target === 'Georgian') {
+    } else if (source === 'X' && target === 'Gla') {
       return fromEsperantoToGeorgian(fromXSystemToEsperanto(toBeConverted));
     } else if (source === 'X' && target === 'Cyrillic') {
       return fromEsperantoToCyrillic(fromXSystemToEsperanto(toBeConverted));

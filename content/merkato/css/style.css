@@ -8,7 +8,7 @@
 textarea {
   border: none !important;
   resize: none;
-  min-height: 185px !important;
+  min-height: 585px !important;
   height: fit-content !important;
 }
 
