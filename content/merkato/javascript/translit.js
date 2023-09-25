@@ -22,8 +22,8 @@
   // Object containing cyrillic alphabet
   Cyrillic = {
     alphabet: {
-      upperCase: ['А', 'Б', 'Ц', 'Ч', 'Д', 'Е', 'Ф', 'Г', 'Х', 'И', 'Й', 'Ж', 'К', 'Л', 'М', 'Н', 'О', 'П', 'Р', 'С', 'Ш', 'Т', 'У', 'В', 'З'],
-      lowerCase: ['а', 'б', 'ц', 'ч', 'д', 'е', 'ф', 'г', 'х', 'и', 'й', 'ж', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'ш', 'т', 'у', 'в', 'з']
+      upperCase: ['А', 'Б', 'Ц', 'Ч', 'Д', 'Е', 'Ф', 'Г', 'Х', 'И', 'Ј', 'Ж', 'К', 'Л', 'М', 'Н', 'О', 'П', 'Р', 'С', 'Ш', 'Т', 'У', 'В', 'З'],
+      lowerCase: ['а', 'б', 'ц', 'ч', 'д', 'е', 'ф', 'г', 'х', 'и', 'ј', 'ж', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'ш', 'т', 'у', 'в', 'з']
     }
   };
 
@@ -59,6 +59,8 @@
     converted = '';
     for (i = 0, len = splittedText.length; i < len; i++) {
       char = splittedText[i];
+      char = char.replace('й', 'ј');
+      char = char.replace('Й', 'Ј');
       indexLower = Cyrillic.alphabet.lowerCase.indexOf(char);
       indexUpper = Cyrillic.alphabet.upperCase.indexOf(char);
       if (indexLower > -1) {
