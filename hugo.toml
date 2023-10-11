@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'ru-ru'
-title = 'NovoRosiana - Русский эсперантоид и ответ "Basic English". Имеет очень простую граматику и легк для изучения'
+title = 'NovoRosiana (Rusanto2.0) - Русский эсперантоид и ответ "Basic English". Имеет очень простую грамматику и легк для изучения'
 theme = "archie"
 
 [params]

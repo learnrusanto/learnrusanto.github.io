@@ -19,7 +19,7 @@ Parodio ot Slovio (aski latino)
 Wto jesam Novorosiana? Novorosiana jesam prosta nova versio ot ta rusia jeziko, kak "BASIC ENGLISH". Nia do Esperanto, Novorosiana jesam razumaema bez uqenjo ot dva-sto-pjat-deset milionov Rusiav ludov. Ot Sankt-Peterburgo qerez Sibiro do Vladivostoko. Novorosiana imeam bole prostanu i bole logikanu gramatikonu, i Novorosiana jesam ta ideala jeziko dla nova dnesav ludov. Uqajte Novorosiana teper!
 
 (кирилицо)\
-Што есам Новоросиана?
+Што есам Новоросиана (Rusanto2.0)?
 
 Новоросиана јесам проста нова версио от та русиа језико, как "BASIC ENGLISH". Ниа до Есперанто, Новоросиана јесам разумаема без ученјо от двасто-пјатдесет милионов Русиав лудов. От Санкт-Петербурго через Сибиро до Владивостоко. Новоросиана имеам боле простану и боле логикану граматикону, и Новоросиана јесам та идеала језико дла новав днесав лудов. Учајте Новоросиана тепер!
 

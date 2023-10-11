@@ -98,7 +98,7 @@ series = ["Grammar"]
 
 
 
-ankoraŭ ешо\
+ankoraŭ јешо\
 antaŭ перед\
 ankaŭ также\
 baldaŭ скоро\
@@ -119,7 +119,7 @@ plej наиболе\
 pri о, об\
 mem сам\
 sur на\
-se если\
+se јесли\
 kun со\
 ke штон\
 jam уже\
