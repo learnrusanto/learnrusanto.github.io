@@ -6,4 +6,5 @@ series = ["Grammar"]
 
 sub- под-\
 pre- пере-\
-pro- за-\
+// pro- за-\
+ek- за- (на-)
