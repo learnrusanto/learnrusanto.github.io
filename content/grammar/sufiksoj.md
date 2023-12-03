@@ -9,7 +9,7 @@ series = ["Grammar"]
 
 Актива
 
-| Esperanto | Novorosiana | Примеров  |
+| Esperanto | Rusanto | Примеров  |
 |----------|----------|-----------|
 |   -ant-      |    -ајуш-      |     Делајуша      |
 |   -int-      |    -авш-      |    Делавша     |
@@ -17,7 +17,7 @@ series = ["Grammar"]
 
 Пасива
 
-| Esperanto | Novorosiana | Примеров  |
+| Esperanto | Rusanto | Примеров  |
 |----------|----------|-----------|
 |   -at-      |    -аем-      |     Делаема      |
 |   -it-      |    -ам-      |    Делама     |

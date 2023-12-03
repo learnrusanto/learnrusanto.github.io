@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About Novorosiana (Rusanto2.0)
+title: About Rusanto (Novorosiana)
 permalink: /about/
 ---
 
 
-### What is Novorosiana? (Rusanto2.0)?
+### What is Rusanto? (Novorosiana)?
 
-What is Novorosiana? Russian language is a very difficult language. Novorosiana is a simplified controlled Russian language like "Basic English". With a simple Esperanto-like grammar without cases [1] and grammatical gender.
-Propaedeutic learning Esperanto helps learning Romance languages [2], Novorosian helps learning Russian (and other Slavic) languages.
+What is Rusanto? Russian language is a very difficult language. Rusanto is a simplified controlled Russian language like "Basic English". With a simple Esperanto-like grammar without cases [1] and grammatical gender.
+Propaedeutic learning Esperanto helps learning Romance languages [2], Rusanto helps learning Russian (and other Slavic) languages [3].
 
 Main advantages
 
@@ -22,12 +22,14 @@ Main advantages
 - No "Ы"
 - No "Щ", "Ь", "Ъ" and so on
 
-1 Novorosiana has an optional accusative case
+1 Rusanto has an optional accusative case
 
 2 https://en.wikipedia.org/wiki/Esperanto#Third-language_acquisition
 
+3 https://en.m.wikipedia.org/wiki/Paderborn_method
+
 ### О ја
 
-Novorosiana (Rusanto2.0) jesam nova "Basic Russian"
+Rusanto (Novorosiana) jesem nova Russian
 
 [email@domain.com](mailto:email@domain.com)

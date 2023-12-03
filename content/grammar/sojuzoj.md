@@ -6,7 +6,7 @@ series = ["Grammar"]
 
 Вопросов
 
-| Esperanto | Novorosiana | English  |
+| Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
 | kia        |   какој       |   what kind/sort/type of      |
 | kial        |   почему       |  why       |
@@ -22,7 +22,7 @@ series = ["Grammar"]
 
 Личнав зазванов
 
-| Esperanto | Novorosiana | English  |
+| Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
 |  mi       |     ја     |         |
 |  vi       |     ви     |         |
@@ -35,7 +35,7 @@ series = ["Grammar"]
 
 Указав словов
 
-| Esperanto | Novorosiana | English  |
+| Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
 |   tia      |     такой     |  such a       |
 |   tial      |    поетому      |  for that reason, therefore       |
@@ -50,7 +50,7 @@ series = ["Grammar"]
 
 Неуверенав словов
 
-| Esperanto | Novorosiana | English  |
+| Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
 |  ia      |   какойто       |   some kind/sort/type of      |
 |  ial      |   почемуто       |   for some reason      |
@@ -66,7 +66,7 @@ series = ["Grammar"]
 
 Все WIP
 
-| Esperanto | Novorosiana | English  |
+| Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
 |   ĉia     |   всако       |  every kind/sort/type of       |
 |  ĉial      |   повсако      | for all reasons        |
@@ -81,7 +81,7 @@ series = ["Grammar"]
 
 Никто
 
-| Esperanto | Novorosiana | English  |
+| Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
 |  nenia      |   никакой       |  no kind/sort/type of       |
 |  nenial      |   ниповсако       |  for no reason       |
