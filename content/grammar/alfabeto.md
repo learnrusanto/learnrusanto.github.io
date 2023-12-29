@@ -50,21 +50,22 @@ series = ["Grammar"]
 
 Голосав звуков (IPA)
 
-|  | Передав |Середав| Задав  |
-|:---------:|:----------:|:-----------:|
-|  Верхав      |    i      ||     u      |
-|   Середав    |    e      ||    o     |
-|   Низав      |  | a |   |
+|        |  Front  | Central | Back  |
+|:------:|:-------:|:-------:|:-----:|
+| Close  |   i     |         |   u   |
+|  Mid   |   e     |         |   o   |
+|  Open  |         |  a      |       |
 
+![Rusanto_vowel_chart](Rusanto_vowel_chart.svg){width=245 height=186}
 
+|         | Labial  | Alveolar-Dental  | Post-alveolar | Velar | Glottal |
+|:-------:|:-------:|:--------:|:-------:|:-------:|:-------:|
+| Nasal      | m    | n  \ nʲ  |   ɲ?    |         |         |
+| Plosive    |p \ b | t \ d    |         | k \ g   |         |
+| Affricate  |      | t͜s      |  t͜ʃ    |         |         |
+| Fricative  | f \ v|  s \ z   | ʃ \ ʒ   |  x      |         |
+| Approximant|      |  l       |  j      |         |         |
+| Trill      |      |  r       |         |         |         |
 
-|  | Labial | Alveolar-Dental  | Post-alveolar | Velar | Glottal |
-|:----:|:----:|:-----:|:-----:|:---:|:---:|
-|Nasal      | m    | n  \ nʲ |   ɲ?    |      |     |
-|Plosive    |p \ b | t \ d  |       | k \ g |     |
-|Affricate   |      | t͜s     |  t͜ʃ   |      |     |
-|Fricative  | f \ v|  s \ z | ʃ \ ʒ |  x   |     |
-|Approximant|      |  l     |  j    |      |     |
-|Trill      |      |  r     |       |      |     |
 
 
