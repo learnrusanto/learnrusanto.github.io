@@ -10,8 +10,8 @@ series = ["Grammar"]
 |:----------:|:----------:|:-----------:|
 | kia        |   какој       |   what kind/sort/type of      |
 | kial        |   почему       |  why       |
-| kiam        |   когда       |  when       |
-| kie       |    где      |   where      |
+| kiam        |   кода       |  when       |
+| kie       |    де      |   where      |
 | kiel        |  как        |  how, as       |
 |  kien       |  куда        |  whither, to where  |
 |  kies       |  чеј        |  whose       |
@@ -25,12 +25,14 @@ series = ["Grammar"]
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
 |  mi       |     ја     |         |
+|  vi       |     ти     |         |
 |  vi       |     ви     |         |
 |   li      |     он     |         |
 |   ŝi      |     она     |         |
 |   ĝi      |     оно     |         |
 |   ni      |     ми     |         |
 |   ili      |    они      |         |
+|   ri      |    ону      |         |
 
 
 Указав словов
@@ -39,11 +41,11 @@ series = ["Grammar"]
 |:----------:|:----------:|:-----------:|
 |   tia      |     такой     |  such a       |
 |   tial      |    поетому      |  for that reason, therefore       |
-|   tiam      |    тогда      |   then      |
+|   tiam      |    тода      |   then      |
 |   tie      |     там     |   there      |
 |   tiel      |    так      |   thus, as      |
 |    tien     |    туда      |         |
-|    ties     | ево,тово |   this/that one's      |
+|    ties     |    тово |   this/that one's      |
 |    tio     |    то,ето      |  this/that       |
 |    tiom     |   стока       |   that much      |
 |    tiu     |    тот      |   that one      |
@@ -52,16 +54,16 @@ series = ["Grammar"]
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
-|  ia      |   какойто       |   some kind/sort/type of      |
-|  ial      |   почемуто       |   for some reason      |
-|   iam     |   когдато       |  sometime       |
-|  ie      |    гдето      |   somewhere      |
-|  iel      |   както       |  somehow       |
-|  ien      |   кудато       |         |
-|   ies     |   чейто       |  someone's       |
-|  io      |    штото      |   something      |
-|  iom      |   стокато       |  some, a bit       |
-|  iu      |    ктото      |   someone      |
+|  ia      |   какой-то       |   some kind/sort/type of      |
+|  ial      |   почему-то       |   for some reason      |
+|   iam     |   кода-то       |  sometime       |
+|  ie      |    де-то      |   somewhere      |
+|  iel      |   как-то       |  somehow       |
+|  ien      |   куда-то       |         |
+|   ies     |   чей-то       |  someone's       |
+|  io      |    што-то      |   something      |
+|  iom      |   стока-то       |  some, a bit       |
+|  iu      |    кто-то      |   someone      |
 
 
 Все WIP
@@ -70,14 +72,14 @@ series = ["Grammar"]
 |:----------:|:----------:|:-----------:|
 |   ĉia     |   всако       |  every kind/sort/type of       |
 |  ĉial      |   повсако      | for all reasons        |
-|  ĉiam      |   всегда       |  always       |
+|  ĉiam      |   вседа       |  always       |
 |  ĉie      |    везде      |   everywhere      |
-|  ĉiel      |   всаческе       |  in every way       |
+|  ĉiel      |   всачески       |  in every way       |
 |  ĉien      |   всуде       |         |
 |  ĉies      |   всех       |  everyone's       |
 |   ĉio     |   всо       |    everything     |
 |   ĉiom     |    вес      |   all of it      |
-|   ĉiu     |   !кажда!       | everyone; each x, all xs  |
+|   ĉiu     |   кожна      | everyone; each x, all xs  |
 
 Никто
 
@@ -85,8 +87,8 @@ series = ["Grammar"]
 |:----------:|:----------:|:-----------:|
 |  nenia      |   никакой       |  no kind/sort/type of       |
 |  nenial      |   ниповсако       |  for no reason       |
-|  neniam      |   никогда       | never        |
-|  nenie      |    нигде      |   nowhere      |
+|  neniam      |   никода       | never        |
+|  nenie      |    ниде      |   nowhere      |
 |  neniel     |    никак      |   no-how, in no way      |
 |  nenien      |   никуда       |         |
 |  nenies      |   ничей       |  no one's       |
