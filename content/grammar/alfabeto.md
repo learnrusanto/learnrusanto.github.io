@@ -56,7 +56,7 @@ series = ["Grammar"]
 |  Mid   |   e     |         |   o   |
 |  Open  |         |  a      |       |
 
-![Rusanto_vowel_chart](Rusanto_vowel_chart.svg){width=245 height=186}
+![Rusanto_vowel_chart](/Rusanto_vowel_chart.svg){width=245 height=186}
 
 |         | Labial  | Alveolar-Dental  | Post-alveolar | Velar | Glottal |
 |:-------:|:-------:|:--------:|:-------:|:-------:|:-------:|
