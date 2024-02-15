@@ -26,3 +26,7 @@ theme = "hugo-flex"
     url = "/about_en"
     weight = 2
 
+  [[menu.main]]
+    name = "Learn"
+    url = "/learn"
+    weight = 2
