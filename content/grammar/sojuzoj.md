@@ -4,7 +4,7 @@ series = ["Grammar"]
 +++
 
 
-Вопросов
+Вопрософ
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
@@ -35,7 +35,7 @@ series = ["Grammar"]
 |   ri      |    ону      |         |
 
 
-Указав словов
+Указа словоф
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
@@ -50,7 +50,7 @@ series = ["Grammar"]
 |    tiom     |   стока       |   that much      |
 |    tiu     |    тот      |   that one      |
 
-Неуверенав словов
+Неуверена словоф
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
