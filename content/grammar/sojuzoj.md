@@ -1,10 +1,10 @@
 +++
-title = "Списко от сојузов"
+title = "Списко от сојузи"
 series = ["Grammar"]
 +++
 
 
-Вопрософ
+Вопроси
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
@@ -20,7 +20,7 @@ series = ["Grammar"]
 | kiu        |   котора       | who, which one |
 
 
-Личнав зазванов
+Лична имени
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
@@ -35,7 +35,7 @@ series = ["Grammar"]
 |   ri      |    ону      |         |
 
 
-Указа словоф
+Указа слови
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
@@ -50,7 +50,7 @@ series = ["Grammar"]
 |    tiom     |   стока       |   that much      |
 |    tiu     |    тот      |   that one      |
 
-Неуверена словоф
+Неувера слови
 
 | Esperanto | Rusanto | English  |
 |:----------:|:----------:|:-----------:|
