@@ -37,8 +37,7 @@ series = ["Grammar"]
 | у        |     u     |     ⱆ      |       /u/       |      u     |
 | ф        |     f     |     ⱇ      |       /f/       |      f     |
 | х        |     h     |     ⱈ      |      /x~h/        |      h     |
-| ц        |     c     |     ⱌ      |      /t͡s/        |     c      |
-| ч        |     č     |     ⱍ      |       /ʧ/       |      q     |
+| ч        |     c     |     ⱍ      |       /ʧ/       |      c     |
 | ш        |     š     |     ⱎ      |       /ʃ/      |       x    |
 
 
@@ -62,7 +61,7 @@ series = ["Grammar"]
 |:-------:|:-------:|:--------:|:-------:|:-------:|:-------:|
 | Nasal      | m    | n  \ nʲ  |   ɲ?    |         |         |
 | Plosive    |p \ b | t \ d    |         | k \ g   |         |
-| Affricate  |      | t͜s      |  t͜ʃ    |         |         |
+| Affricate  |      |      |  t͜ʃ    |         |         |
 | Fricative  | f \ v|  s \ z   | ʃ \ ʒ   |  x      |         |
 | Approximant|      |  l       |  j      |         |         |
 | Trill      |      |  r       |         |         |         |
