@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'ru-ru'
 defaultContentLanguage = 'en'
-title = 'Rusanto (NovoRosiana) - Simplified Russian as "Basic English". Has very simple grammar and is easy to learn'
+title = 'Rusanto (Rusa bez slovomeňanio) - Simplified Russian as "Basic English". Has very simple grammar and is easy to learn'
 theme = "hugo-flex"
 
 
