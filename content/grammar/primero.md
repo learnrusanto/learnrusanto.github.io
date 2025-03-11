@@ -30,12 +30,12 @@ title = "Примеро"
 
 #Parodio ot Slovio (aski latino)
 
-Xto jesem Rusanto? Rusanto jesem prosta nova versio ot ta rusia jeziko, kak "BASIC ENGLISH". Nikak Esperanto, Rusanto jesem rozumaema bez uqenjo ot dva-sto-pjat-deset miliono rosia ludi. Ot Sankt-Peterburgo qerez Sibiro do Vladivostoko. Rusanto imem bole prostanu i bole logikanu gramatikonu, i Rusanto jesem ta ideala jeziko dla nova dnesa ludi. Uqajte Rusanto teper!
+Xto jesem Rusanto? Rusanto jesem prosta nova versio ot ta rusia jeziko, kak "BASIC ENGLISH". Nikak Esperanto, Rusanto jesem rozumaema bez ucenjo ot dva-sto-pet-desat miliono rosia ludi. Ot Sankt-Peterburgo cerez Sibiro do Vladivostoko. Rusanto imem bole prostanu i bole logikanu gramatikonu, i Rusanto jesem ta ideala jeziko dla nova dnesa ludi. Ucajte Rusanto teper!
 
 (кирила)\
 Што јесем Русанто (Новоросиана)?
 
-Русанто јесем проста нова версио от та русиа језико, как "BASIC ENGLISH". Никак Есперанто, Русанто јесем розумаема без учењо от двасто-пјатдесет милионо росиа луди. От Санкт-Петербурго через Сибиро до Владивостоко. Русанто имем боле простану и боле логикану граматикону, и Русанто јесем та идеала језико дла нова днеса луди. Учајте Русанто тепер!
+Русанто јесем проста нова версио от та русиа језико, как "BASIC ENGLISH". Никак Есперанто, Русанто јесем розумаема без учењо от двасто-петдесат милионо росиа луди. От Санкт-Петербурго через Сибиро до Владивостоко. Русанто имем боле простану и боле логикану граматикону, и Русанто јесем та идеала језико дла нова днеса луди. Учајте Русанто тепер!
 
 
 # Анегдоти
